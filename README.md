@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ade Adesanya
+- 👋 Hi, I’m Oluwole Ade Adesanya
 - 👀 I’m interested in Java, Kotlin, Android Application Development
 - 🌱 I’m currently learning Kotlin Coroutines
 - 💞️ I’m looking to collaborate on Open Source Projects in Java or Kotlin
