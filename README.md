@@ -10,9 +10,8 @@
 - Coroutines, Jetpack
 
 ## 📱 Projects
-- Daily Medicine Reminder
 - Hearing Aids Reminder
-- Food Recipes App
+
 
 ## 📫 Contact Me
 - Email: ade.ades@yahoo.co.uk
