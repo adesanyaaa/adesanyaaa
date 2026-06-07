@@ -11,7 +11,9 @@
 
 ## 📱 Projects
 - Hearing Aids Reminder
-
+- Daily Medicine Reminder
+- Age From DOB App
+- Modern Food Recipes App
 
 ## 📫 Contact Me
 - Email: ade.ades@yahoo.co.uk
