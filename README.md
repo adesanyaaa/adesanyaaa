@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Oluwole Ade Adesanya
-- 👀 I’m interested in Java, Kotlin, Android Application Development
-- 🌱 I’m currently learning Kotlin Coroutines
-- 💞️ I’m looking to collaborate on Open Source Projects in Java or Kotlin
-- 📫 How to reach me adesanyaaa@gmail.com
+# Hi, I'm Ade 👋
 
-<!---
-adesanyaaa/adesanyaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Android Developer (Kotlin)  
+📱 Building real-world mobile apps  
+
+## 🔧 Skills
+- Kotlin
+- Android SDK
+- MVVM, Clean Architecture
+- Coroutines, Jetpack
+
+## 📱 Projects
+- Daily Medicine Reminder
+- Hearing Aids Reminder
+- Food Recipes App
+
+## 📫 Contact Me
+- Email: ade.ades@yahoo.co.uk
