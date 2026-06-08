@@ -11,8 +11,8 @@
 
 ## 📱 Projects
 - Hearing Aids Reminder
-- Daily Medicine Reminder
-- Age From DOB App
+- Medicine Reminder
+- Age Calculator App
 - Modern Food Recipes App
 
 ## 📫 Contact Me
